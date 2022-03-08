@@ -1,6 +1,6 @@
 # General Overview of the Training Goals
 
-WWith this training session, we aim to help technical professionals initiate their journey in concepts and technologies around Kubernetes.
+With this training session, we aim to help technical professionals initiate their journey in concepts and technologies around Kubernetes.
 Our goal is to provide some insights and hands-on experience about the pros and cons of adopting Microservice-based architectures, understanding the different approaches and some of the technical tools to put it in place, such as Configuration (YAML), Containerization (Docker) and Kubernetes (Orchestration) from a developer's perspective.
 
 # Specific Training Goals
