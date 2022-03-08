@@ -28,7 +28,8 @@ Our goal is to provide some insights and hands-on experience about the pros and 
 # Session Outline:
 The training session will be perfomed over the course of 3 sessions (2 hours each) using a videoconferencing tool.
 The goals for each session will be:
- 1. Session One:
+
+### Session One:
    * Microservices :
      * Microservice Overview
      * Pros and Cons
@@ -41,7 +42,8 @@ The goals for each session will be:
      * Introduction to Docker
      * Quiz Exercise
    * Q&A
- 2. Session Two:
+
+### Session Two:
    * Containers:
      * Containers Review
      * Hands-on Exercise
@@ -60,7 +62,8 @@ The goals for each session will be:
        * Hands-on Exercise
        * Quiz Exercise
    * Q&A
- 3. Session Three:
+
+### Session Three:
    * Core Concepts
      * Deployments
        * Hands-on Exercise
