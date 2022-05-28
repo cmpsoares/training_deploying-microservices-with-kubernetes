@@ -14,17 +14,17 @@ For the training sessions to go as smoothly as possible, we'll need you to prepa
 ## Software
  * Container or virtual machine manager, such as:
    * [VirtualBox](https://minikube.sigs.k8s.io/docs/drivers/virtualbox/) (recommended for beginners)
-   * [Docker](https://minikube.sigs.k8s.io/docs/drivers/docker/)
+   * [Docker](https://minikube.sigs.k8s.io/docs/drivers/docker/) (favourite if you already use )
    * [Hyperkit](https://minikube.sigs.k8s.io/docs/drivers/hyperkit/)
    * [Hyper-V](https://minikube.sigs.k8s.io/docs/drivers/hyperv/)
    * [KVM](https://minikube.sigs.k8s.io/docs/drivers/kvm2/)
-   * [Parallels](https://minikube.sigs.k8s.io/docs/drivers/parallels/) (recommended for MacOS)
+   * [Parallels](https://minikube.sigs.k8s.io/docs/drivers/parallels/) (recommended for MacOS - Paid)
    * [Podman](https://minikube.sigs.k8s.io/docs/drivers/podman/)
    * [VMware Fusion/Workstation](https://minikube.sigs.k8s.io/docs/drivers/vmware/) (recommended for windows)
  * [Docker](https://docs.docker.com/get-docker/) (optional):
-   * Note: For this class we will use \*Nix based containers so we recommend to prepare for the WSL2 installation
+   * Note: For this class we will use \*Nix based containers so we recommend to prepare for the [WSL2 installation](https://docs.microsoft.com/en-us/windows/wsl/install)
  * Minikube: [installation guide](https://minikube.sigs.k8s.io/docs/start/)
- * IDE/Text editor (optional)
+ * IDE/Text editor at choice
  * \*Nix terminal:
    *  MacOS/Linux: any will do
    *  Windows: [wsl2](https://docs.microsoft.com/en-us/windows/wsl/install) is recommended
