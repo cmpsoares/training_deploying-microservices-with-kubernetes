@@ -21,7 +21,7 @@ For the training sessions to go as smoothly as possible, we'll need you to prepa
    * [Parallels](https://minikube.sigs.k8s.io/docs/drivers/parallels/) (recommended for MacOS - Paid)
    * [Podman](https://minikube.sigs.k8s.io/docs/drivers/podman/)
    * [VMware Fusion/Workstation](https://minikube.sigs.k8s.io/docs/drivers/vmware/) (recommended for windows)
- * [Docker](https://docs.docker.com/get-docker/) (optional):
+ * [Docker](https://docs.docker.com/get-docker/):
    * Note: For this class we will use \*Nix based containers so we recommend to prepare for the [WSL2 installation](https://docs.microsoft.com/en-us/windows/wsl/install)
  * Minikube: [installation guide](https://minikube.sigs.k8s.io/docs/start/)
  * IDE/Text editor at choice
