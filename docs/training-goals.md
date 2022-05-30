@@ -33,6 +33,7 @@ The goals for each session will be:
    * Microservices :
      * Microservice Overview
      * Pros and Cons
+     * Common Architectures
      * Quiz Exercise
    * Configuration Languages:
      * Introduction to YAML
