@@ -55,25 +55,25 @@ The goals for each session will be:
        * Hands-on Exercise
      * Introduction to the Manifest File
        * Quiz Exercise
-   * Core Concepts
-     * PODs
-       * Hands-on Exercise
-       * Quiz Exercise
-     * ReplicaSets
-       * Hands-on Exercise
-       * Quiz Exercise
    * Q&A
 
 ### Session Three:
-   * Core Concepts
-     * Deployments
+   * Kubernetes
+     * Core Concepts
+       * PODs
+         * Hands-on Exercise
+         * Quiz Exercise
+       * ReplicaSets
+         * Hands-on Exercise
+         * Quiz Exercise
+       * Deployments
+         * Hands-on Exercise
+         * Quiz Exercise
+       * Namespaces
+         * Hands-on Exercise
+         * Quiz Exercise
+     * Basics of Networking
        * Hands-on Exercise
        * Quiz Exercise
-     * Namespaces
-       * Hands-on Exercise
-       * Quiz Exercise
-   * Basics of Networking
-     * Hands-on Exercise
-     * Quiz Exercise
    * Q&A
    * Closing
